@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ismunarin.github.io/sitemap.html.gz
+Sitemap: https://ismunarin.github.io/app/sitemap.html.gz
+Sitemap: https://ismunarin.github.io/assets/sitemap.html.gz
+Sitemap: https://ismunarin.github.io/css/sitemap.html.gz
+Sitemap: https://ismunarin.github.io/includes/sitemap.html.gz
+Sitemap: https://ismunarin.github.io/item/sitemap.html.gz
+Sitemap: https://ismunarin.github.io/src/sitemap.html.gz
